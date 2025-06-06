@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning gamedev
 - 💞️ I’m looking to collaborate on gamedev
 - 📫 How to reach me matvjuk12@gmail.com and +7 908 016 27 88
-- 😄 Pronouns: ...
+- 😄 Pronouns: he, his
 - ⚡ Fun fact: ...
 
 <!---
