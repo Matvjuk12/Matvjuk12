@@ -37,7 +37,7 @@
 
 ### 📫 How to reach me
 
-[![Telegram](https://shields.io)](https://t.me)
+[![Telegram](https://img.shields.io/badge/Telegram-purple)](https://t.me/projectBendan)
 [![Email](https://shields.io)](mailto:matvjuk12@gmail.com)
 
 ---
