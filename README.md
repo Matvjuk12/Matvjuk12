@@ -15,7 +15,7 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `C++` |
+| **Languages** | `C\C++` , `Python`|
 | **Tools** | `Git`, `VS Code` |
 | **Platforms** | `LeetCode`, `Codeforces` |
 
