@@ -38,10 +38,10 @@
 ### 📫 How to reach me
 
 [![Telegram](https://img.shields.io/badge/Telegram-purple)](https://t.me/projectBendan)
-[![Email](https://shields.io)](mailto:matvjuk12@gmail.com)
+[![Email](https://img.shields.io/badge/Email-green)](mailto:matvjuk12@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats">
+  <img src="https://vercel.app?username=Matvjuk12&theme=dark" alt="GitHub Stats">
 </p>
