@@ -11,8 +11,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack & Tools
 
-![GitHub Stats](https://vercel.app)
+![C++](https://shields.io)
+![Git](https://shields.io)
+![VS Code](https://shields.io)
+![LeetCode](https://shields.io)
 
-![Top Langs](https://vercel.app)
+---
+
+### 📈 Profile Views
+![Views](https://komarev.com)
