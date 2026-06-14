@@ -42,6 +42,6 @@
 
 ---
 
-![Stats](https://github-flex.vercel.app/api/stats?username=Matvjuk12&theme=dark)
-![Languages](https://github-flex.vercel.app/api/languages?username=Matvjuk12&theme=dark)
-![Repo](https://github-flex.vercel.app/api/repo?username=Matvjuk12&repo=competitive%2Dprogramming)
+![Stats](https://github-flex.vercel.app/api/stats?username=Matvjuk12&theme=radical)
+![Languages](https://github-flex.vercel.app/api/languages?username=Matvjuk12&theme=radical)
+![Repo](https://github-flex.vercel.app/api/repo?username=Matvjuk12&repo=competitive%2Dprogramming&theme=radical)
