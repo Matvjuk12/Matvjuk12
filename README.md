@@ -42,6 +42,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://vercel.app?username=Matvjuk12&theme=dark" alt="GitHub Stats">
-</p>
+![Stats](https://github-flex.vercel.app/api/stats?username=Matvjuk12&theme=dark)
+![Languages](https://github-flex.vercel.app/api/languages?username=Matvjuk12)
