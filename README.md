@@ -27,7 +27,6 @@
 
 ### 🎯 Roadmap & Goals (2026–2027)
 
-- [x] Win **RoboCup Russia Open** (Junior Rescue Line)
 - [x] Get into **Kapitsa Phystech Lyceum (FTL)**
 - [ ] Push Codeforces rating to **1600+ (Expert)** over the summer
 - [ ] Develop advanced AI algorithms for **RoboCup Junior Rescue Simulation**
