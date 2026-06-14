@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 * 🎯 **Focus:** Competitive Programming, Advanced Physics, and Autonomous Robotics.
-* 🎓 **Current State:** Student at Kapitsa Phystech Lyceum (FTL). 
+* 🎓 **Current State:** Student at Kapitsa Phystech Lyceum (FTL).
 * 🗺️ **The Journey:** Scaling up from a small Siberian town (Lesosibirsk) to the top tech hubs.
 * ⚡ **Fun Fact:** Can rewrite pathfinding algorithms overnight on 40 minutes of sleep.
 
@@ -28,21 +28,20 @@
 
 ---
 
-### 🎯 Roadmap & Goals
+### 🎯 Roadmap & Goals (2026–2027)
 
 - [x] Win **RoboCup Russia Open** (Junior Rescue Line)
 - [x] Get into **Kapitsa Phystech Lyceum (FTL)**
-- [ ] Push Codeforces rating to **1600+** over the summer
-- [ ] Dominate **RoboCup Worldwide (Rescue Simulation)**
-- [ ] Sweep All-Russian Olympiad of Schoolchildren (**VshOSH**) in Physics, Informatics, Math, Astronomy & Economics
+- [ ] Push Codeforces rating to **1600+ (Expert)** over the summer
+- [ ] Develop advanced AI algorithms for **RoboCup Junior Rescue Simulation**
+- [ ] Qualify for the Final Stage of the All-Russian Olympiad (**VshOSH**) in Physics & Informatics
 
 ---
 
 ### 📫 How to reach me
 
-* 📧 **Email:** [matvjuk12@gmail.com](mailto:matvjuk12@gmail.com)
-* 📱 **Telegram:** [@projectBendan](https://t.me)
-* 📞 **Phone:** +7 (908) 016-27-88
+[![Telegram](https://shields.io)](https://t.me)
+[![Email](https://shields.io)](mailto:matvjuk12@gmail.com)
 
 ---
 
