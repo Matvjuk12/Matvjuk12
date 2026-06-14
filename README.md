@@ -1,6 +1,6 @@
 # 🛠️ Hi, I'm @Matvjuk12 🚀
 
-![C++](https://img.shields.io/badge/С++/blue)
+![C++](https://img.shields.io/badge/С++-blue)
 ![Python](https://shields.io)
 ![Git](https://shields.io)
 ![VS Code](https://shields.io)
