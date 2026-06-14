@@ -43,4 +43,6 @@
 ---
 
 ![Stats](https://github-flex.vercel.app/api/stats?username=Matvjuk12&theme=dark)
-![Languages](https://github-flex.vercel.app/api/languages?username=Matvjuk12)
+![Languages](https://github-flex.vercel.app/api/languages?username=Matvjuk12&theme=dark)
+![Repo](https://github-flex.vercel.app/api/repo?username=OWNER&repo=competitive-programming&theme=dark)
+![Repo](https://github-flex.vercel.app/api/repo?username=OWNER&repo=phystech-lyceum-vault&theme=dark)
