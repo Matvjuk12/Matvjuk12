@@ -3,7 +3,7 @@
 ![C++](https://img.shields.io/badge/С++-violet)
 ![Python](https://img.shields.io/badge/Python-yellow)
 ![Git](https://img.shields.io/badge/Git-red)
-![VS Code](https://img.shields.io/badge/VS Code-blue)
+![VS Code](https://img.shields.io/badge/VSCode-blue)
 ---
 
 ### 🧠 About Me
