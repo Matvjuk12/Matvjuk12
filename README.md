@@ -1,12 +1,9 @@
 # 🛠️ Hi, I'm @Matvjuk12 🚀
 
-<p align="left">
-  <img src="https://shields.io" alt="C++">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="Git">
-  <img src="https://shields.io" alt="VS Code">
-</p>
-
+![C++](https://shields.io)
+![Python](https://shields.io)
+![Git](https://shields.io)
+![VS Code](https://shields.io)
 ---
 
 ### 🧠 About Me
@@ -46,6 +43,5 @@
 ---
 
 <p align="center">
-  <img src="https://shion.dev" alt="GitHub Stats">
+  <img src="https://vercel.app" alt="GitHub Stats">
 </p>
-
