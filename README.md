@@ -13,12 +13,11 @@
 
 ### 🛠️ Tech Stack & Tools
 
-![C++](https://shields.io)
-![Git](https://shields.io)
-![VS Code](https://shields.io)
-![LeetCode](https://shields.io)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `C++` |
+| **Tools** | `Git`, `VS Code` |
+| **Platforms** | `LeetCode`, `Codeforces` |
 
 ---
 
-### 📈 Profile Views
-![Views](https://komarev.com)
