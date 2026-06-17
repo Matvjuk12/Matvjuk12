@@ -28,7 +28,7 @@
 ### 🎯 Roadmap & Goals (2026–2027)
 
 - [x] Get into **Kapitsa Phystech Lyceum (FTL)**
-- [ ] Push Codeforces rating to **1600+ (Expert)** over the summer
+- [ ] Push Codeforces rating to **1900+ (Candidate Master)** over the winter
 - [ ] Develop advanced AI algorithms for **RoboCup Junior Rescue Simulation**
 - [ ] Qualify for the Final Stage of the All-Russian Olympiad (**VshOSH**) in Physics & Informatics
 
