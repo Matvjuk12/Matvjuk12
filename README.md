@@ -21,7 +21,7 @@
 | **Languages** | `C / C++`, `Python` |
 | **Tools** | `Git`, `VS Code`, `GNU Debugger (GDB)` |
 | **Platforms** | `Codeforces` (Target: Expert 1600+), `LeetCode` |
-| **Robotics** | `Webots` (Rescue Simulation), `ROS`, `OpenCV` |
+| **Robotics** | `Webots`, `Arduino IDE`, `OpenCV` |
 
 ---
 
