@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 * 🎯 **Focus:** Competitive Programming, Advanced Physics, and Autonomous Robotics.
-* 🎓 **Current State:** Student at Kapitsa Phystech Lyceum (FTL).
+* 🎓 **Current State:** Student at Kapitsa Phystech Lyceum.
 * 🗺️ **The Journey:** Scaling up from a small Siberian town (Lesosibirsk) to the top tech hubs.
 * ⚡ **Fun Fact:** Can rewrite pathfinding algorithms overnight on 40 minutes of sleep.
 
