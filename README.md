@@ -29,7 +29,7 @@
 
 - [x] Get into **Kapitsa Phystech Lyceum (FTL)**
 - [ ] Push Codeforces rating to **1900+ (Candidate Master)** over the winter
-- [ ] Develop advanced AI algorithms for **RoboCup Junior Rescue Simulation**
+- [ ] Develop advanced AI algorithms for **RoboCup Junior Soccer Open**
 - [ ] Qualify for the Final Stage of the All-Russian Olympiad (**VshOSH**) in Physics & Informatics
 
 ---
