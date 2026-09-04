@@ -10,7 +10,7 @@
 ### 🧠 About Me
 * 🎯 **Focus:** Competitive Programming, Advanced Physics, and Autonomous Robotics.
 * 🎓 **Current State:** Student at Kapitsa Phystech Lyceum.
-* 🗺️ **The Journey:** Scaling up from a small Siberian town (Lesosibirsk) to the top tech hubs.
+* 🗺️ **The Journey:** Scaling up from a small Siberian town (Lesosibirsk, Krasnoyarsk kray) to the top tech hubs.
 * ⚡ **Fun Fact:** Can rewrite pathfinding algorithms overnight on 40 minutes of sleep.
 
 ---
@@ -21,17 +21,15 @@
 | :--- | :--- |
 | **Languages** | `C / C++`, `Python` |
 | **Tools** | `Git`, `VS Code`, `GNU Debugger (GDB)` |
-| **Platforms** | `Codeforces` (Target: Expert 1600+), `LeetCode` |
+| **Platforms** | `Codeforces`, `LeetCode` |
 | **Robotics** | `Webots`, `Arduino IDE`, `OpenCV` |
 
 ---
 
 ### 🎯 Roadmap & Goals (2026–2027)
 
-- [x] Get into **Kapitsa Phystech Lyceum (FTL)**
-- [ ] Push Codeforces rating to **1900+ (Candidate Master)** over the winter
 - [ ] Develop advanced AI and navigation algorithms for **RoboCup Junior Rescue Maze**
-- [ ] Qualify for the Final Stage of the All-Russian Olympiad (**VshOSH**) in Physics & Informatics
+- [ ] Qualify for the Final Stage of the All-Russian Olympiad (**VshOSH**) in Physics
 
 ---
 
