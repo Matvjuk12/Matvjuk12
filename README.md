@@ -8,10 +8,9 @@
 ---
 
 ### 🧠 About Me
-* 🎯 **Focus:** Competitive Programming, Advanced Physics, and Autonomous Robotics.
+* 🎯 **Focus:** Advanced Physics, Programming.
 * 🎓 **Current State:** Student at Kapitsa Phystech Lyceum.
-* 🗺️ **The Journey:** Scaling up from a small Siberian town (Lesosibirsk, Krasnoyarsk kray) to the top tech hubs.
-* ⚡ **Fun Fact:** Can rewrite pathfinding algorithms overnight on 40 minutes of sleep.
+* ⚡ **Fun Fact:** Can rewrite algorithms overnight on 40 minutes of sleep.
 
 ---
 
@@ -28,7 +27,6 @@
 
 ### 🎯 Roadmap & Goals (2026–2027)
 
-- [ ] Develop advanced AI and navigation algorithms for **RoboCup Junior Rescue Maze**
 - [ ] Qualify for the Final Stage of the All-Russian Olympiad (**VshOSH**) in Physics
 
 ---
